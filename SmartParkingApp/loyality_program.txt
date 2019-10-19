@@ -1,0 +1,5 @@
+TestUser1;plate1;3092309423
+TestUser2;plate2;0930129301
+TestUser3;plate3;0987654321
+TestUser4;car4;123456789
+
